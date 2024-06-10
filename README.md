@@ -24,16 +24,12 @@ Minting Tokens
 
 solidity
 
-Copy code
-
 myToken.mint(0xYourAddress, 1000);
 
 Burning Tokens
 
 
 solidity
-
-Copy code
 
 myToken.burn(0xYourAddress, 500);
 
